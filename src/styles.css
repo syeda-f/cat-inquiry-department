@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes floatUp {
+  from {
+    opacity: 0.8;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-24px);
+  }
+}
+
+@keyframes swing {
+  from {
+    transform: translateX(-50%) rotate(-4deg);
+  }
+  to {
+    transform: translateX(-50%) rotate(4deg);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 220ms ease-out;
+}
