@@ -87,8 +87,4 @@ vite.config.ts
 * Add sound settings
 * Add a leaderboard
 
-## Author
 
-**Syeda Fatima**
-
-GitHub: https://github.com/syeda-f
