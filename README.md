@@ -2,8 +2,6 @@
 
 Cat Inquiry Department is a fun detective game where players can solve mystery cases involving cats. The Players can collect clues, investigate suspects, and solve each case using logic and observation.
 
-The project was built with React, TypeScript, Vite, and Firebase.
-
 ## Features
 
 * Solve cat mystery cases
