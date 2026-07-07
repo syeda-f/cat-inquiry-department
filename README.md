@@ -1,9 +1,8 @@
 # Cat Inquiry Department
 
-Cat Inquiry Department is a fun detective game where players can solve mystery cases involving cats. The Players can collect clues, investigate suspects, and solve each case using logic and observation.
-
+Cat Inquiry Department is a fun detective game where players can solve mystery cases involving cats.
 ## Features
-
+Players can: 
 * Solve cat mystery cases
 * View case files and evidence
 * Investigate different suspects
